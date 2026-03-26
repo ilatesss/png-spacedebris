@@ -1,0 +1,9 @@
+[
+  { "label": "Microparticelle\n< 1mm", "v": 140000000, "vL": "140M", "c": "#ff2244", "u": "stimate (MASTER-8)", "d": "La massa invisibile. Ogni impatto può forare scafi e pannelli solari." },
+  { "label": "Frammenti\n1mm – 1cm", "v": 1200000, "vL": "1,2M", "c": "#ff4455", "u": "stimate (MASTER-8)", "d": "Non tracciabili. Veloci come proiettili sparati in orbita." },
+  { "label": "Frammenti\n1cm – 10cm", "v": 54000, "vL": "54.000", "c": "#ff8c00", "u": "stimate (MASTER-8)", "d": "Pericolosi e difficili da tracciare con sufficiente precisione." },
+  { "label": "Frammenti\n> 10cm (RF/PF)", "v": 23000, "vL": "23.000", "c": "#ffaa00", "u": "tracciati SSN/ESA", "d": "Tracciabili. Collisione con satellite = distruzione totale." },
+  { "label": "Satelliti\nInattivi (PD)", "v": 3200, "vL": "3.200", "c": "#ffee00", "u": "tracciati", "d": "Integri ma non funzionanti. Masse elevate, pericolo duraturo." },
+  { "label": "Razzi Esauriti\n(RB)", "v": 2100, "vL": "2.100", "c": "#00ffff", "u": "tracciati", "d": "Stadi superiori abbandonati. I più massivi. Esplosioni da carburante residuo." },
+  { "label": "Satelliti\nOperativi (PL)", "v": 9300, "vL": "9.300", "c": "#39ff14", "u": "attivi 2024", "d": "Solo questi ci sono utili. In crescita per mega-costellazioni Starlink/OneWeb." }
+]
