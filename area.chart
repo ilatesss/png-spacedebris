@@ -11,7 +11,7 @@
   { "year": 1995, "objects": 9400, "event": null },
   { "year": 2000, "objects": 10900, "event": null },
   { "year": 2005, "objects": 13200, "event": null },
-  { "year": 2007, "objects": 20800, "event": "⚠ TEST ASAT CINA — Fengyun-1C distrutto. +7.000 frammenti. Il peggior singolo evento." },
+  { "year": 2007, "objects": 20800, "event": "⚠ TEST ASAT CINA — Fengyun-1C distrutto. +3.000 frammenti tracciati (+35.000 stimati). Il peggior singolo evento." },
   { "year": 2009, "objects": 22900, "event": "⚠ IRIDIUM 33 × COSMOS 2251 — Prima collisione accidentale tra satelliti. +2.000 frammenti." },
   { "year": 2012, "objects": 24400, "event": null },
   { "year": 2015, "objects": 26000, "event": null },
@@ -20,5 +20,5 @@
   { "year": 2021, "objects": 30500, "event": "⚠ TEST ASAT RUSSIA — Cosmos-1408 distrutto. ISS costretta a manovre di emergenza." },
   { "year": 2022, "objects": 32000, "event": null },
   { "year": 2023, "objects": 34500, "event": "Record assoluto lanci: 2.800+ satelliti in LEO in un solo anno" },
-  { "year": 2024, "objects": 36000, "event": "⚠ 3.000+ nuovi frammenti da eventi 2024. Densità 550km = satelliti attivi (ESA)." }
+   { "year": 2024, "objects": 39246, "event": "⚠ 3.000+ nuovi frammenti da eventi 2024. Densità 550km = satelliti attivi (ESA)." } 
 ]
