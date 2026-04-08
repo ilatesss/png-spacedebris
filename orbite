@@ -1,6 +1,6 @@
 [
   { "name": "ATMOSFERA", "km": "0–100km", "r": 30, "color": "rgba(0,150,255,.7)", "objects": 0, "pct": "0%", "fill": "rgba(0,80,180,.18)", "desc": "" },
-  { "name": "LEO", "km": "200–2.000km", "r": 78, "color": "#ff2244", "objects": 29880, "pct": "83%", "fill": "rgba(255,34,68,.065)", "desc": "Low Earth Orbit. 83% di tutti gli oggetti. Affollato, velocità 7,8 km/s. A 550km densità = satelliti attivi." },
-  { "name": "MEO", "km": "2.000–35.786km", "r": 132, "color": "#ff8c00", "objects": 3614, "pct": "10%", "fill": "rgba(255,140,0,.04)", "desc": "Medium Earth Orbit. GPS, Galileo, GLONASS. Velocità ~4 km/s." },
-  { "name": "GEO", "km": "35.786km", "r": 178, "color": "#39ff14", "objects": 2528, "pct": "7%", "fill": "rgba(57,255,20,.035)", "desc": "Geostationary Orbit. 36 satelliti meteo + 200 inattivi. Cimitero GEO a 300km sopra." }
+  { "name": "LEO", "km": "200–2.000km", "r": 78, "color": "#ff2244", "objects": 32574, "pct": "83%", "fill": "rgba(255,34,68,.065)", "desc": "Low Earth Orbit. 83% di tutti gli oggetti. Affollato, velocità 7,8 km/s. A 550km densità = satelliti attivi." },
+  { "name": "MEO", "km": "2.000–35.786km", "r": 132, "color": "#ff8c00", "objects": 3925, "pct": "10%", "fill": "rgba(255,140,0,.04)", "desc": "Medium Earth Orbit. GPS, Galileo, GLONASS. Velocità ~4 km/s." },
+  { "name": "GEO", "km": "35.786km", "r": 178, "color": "#39ff14", "objects": 2747, "pct": "7%", "fill": "rgba(57,255,20,.035)", "desc": "Geostationary Orbit. 36 satelliti meteo + 200 inattivi. Cimitero GEO a 300km sopra." }
 ]
