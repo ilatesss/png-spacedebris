@@ -5,5 +5,5 @@
   { "name": "Francia", "pct": 1.5, "frags": 540, "ratio": "~1.0", "color": "#39ff14", "lat": 47, "lng": 2, "detail": "533 oggetti. Razzi Ariane. Contributo relativamente contenuto." },
   { "name": "India", "pct": 0.8, "frags": 288, "ratio": "~0.9", "color": "#ffee00", "lat": 22, "lng": 78, "detail": "Test ASAT 2019 (Op. Shakti): frammenti quasi tutti decaduti. Contributo minore." },
   { "name": "Giappone", "pct": 0.5, "frags": 180, "ratio": "~0.5", "color": "#ff00ff", "lat": 36, "lng": 138, "detail": "Pochi detriti. Prima missione commerciale di rimozione attiva: ADRAS-J (Astroscale, 2024)." },
-  { "name": "Altro", "pct": 2.2, "frags": 792, "ratio": "vari", "color": "rgba(255,255,255,.25)", "lat": 5, "lng": 25, "detail": "ESA, Israele, Canada e altri con contributi minori." }
+  { "name": "Altro", "pct": 2.2, "frags": 792, "ratio": "vari", "color": "rgba(255,255,255,.25)", "lat": 5, "lng": 30, "detail": " Israele, Canada e altri con contributi minori." }
 ]
