@@ -1,7 +1,7 @@
 [
   { "name": "USA", "pct": 32, "frags": 11520, "ratio": "1.3", "color": "#00ffff", "lat": 40, "lng": -96, "detail": "4.521 oggetti tracciati. Test ASAT nel 1985 (SOLWIND). Iridium 33 collision 2009." },
   { "name": "Russia / USSR", "pct": 33, "frags": 11880, "ratio": "4.3", "color": "#ff8c00", "lat": 62, "lng": 88, "detail": "Il maggior contributo storico. Numerose esplosioni accidentali di stadi razzi. Test ASAT su Cosmos-1408 (2021)." },
-  { "name": "Cina", "pct": 30, "frags": 10800, "ratio": "7.5", "color": "#ff2244", "lat": 34, "lng": 105, "detail": "Test ASAT 2007 su Fengyun-1C: il peggior singolo evento (+3.400 frammenti ancora attivi). 7,5 frammenti per payload." },
+  { "name": "Cina", "pct": 30, "frags": 10800, "ratio": "7.5", "color": "#ff2244", "lat": 34, "lng": 105,"detail": "Test ASAT 2007 su Fengyun-1C: +3.000 frammenti tracciati ancora in orbita. Rapporto stimato più alto tra le nazioni spaziali." },
   { "name": "Francia", "pct": 1.5, "frags": 540, "ratio": "~1.0", "color": "#39ff14", "lat": 47, "lng": 2, "detail": "533 oggetti. Razzi Ariane. Contributo relativamente contenuto." },
   { "name": "India", "pct": 0.8, "frags": 288, "ratio": "~0.9", "color": "#ffee00", "lat": 22, "lng": 78, "detail": "Test ASAT 2019 (Op. Shakti): frammenti quasi tutti decaduti. Contributo minore." },
   { "name": "Giappone", "pct": 0.5, "frags": 180, "ratio": "~0.5", "color": "#ff00ff", "lat": 36, "lng": 138, "detail": "Pochi detriti. Prima missione commerciale di rimozione attiva: ADRAS-J (Astroscale, 2024)." },
